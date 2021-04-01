@@ -84,3 +84,5 @@ WHM > JetBackup > Hooks > Create New Hook:
 Once your Hooks are set up, you will start receiving notifications on the mattermost channel depending on your script and hook type. In this case, sending notifications for when a backup starts and finishes and the corresponding status of the backup job.
 
 You could also add customizations and advanced formatting to your mattermost notification layout with the use of mattermost’s [text formatting](https://docs.mattermost.com/help/messaging/formatting-text.html)
+
+Source: https://blog.jetapps.com/how-to-setup-slack-notifications/
